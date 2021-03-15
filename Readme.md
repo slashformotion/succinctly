@@ -38,7 +38,7 @@ python3 manage.py runserver
 
 ## Fabriqué avec
 
-* [Cyrrus](https://spiderpig86.github.io) - CSS Framework 
+* [Cyrrus](https://spiderpig86.github.io/Cirrus/) - CSS Framework 
 * [Django](https://www.djangoproject.com) - Back Framework
 
 
@@ -49,7 +49,7 @@ Le projet est encore en étape de développement initial.
 
 ## License
 
-Ce projet est sous licence ``MIT`` - voir le fichier [LICENSE](LICENSE) pour plus d'informations
+Ce projet est sous licence ``MIT`` - voir le fichier [LICENSE](https://github.com/slashformotion/succinctly/blob/master/LICENCE) pour plus d'informations
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
